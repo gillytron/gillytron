@@ -1,5 +1,19 @@
 ### Hi there 👋
 
+👷**Current Role**: Data Engineer 👷
+
+
+🌱 Currently learning Rust and Node.js 
+
+working with: 
+- ⚡ Serverless
+- ⚡ FastAPI
+- 📘 Azure
+
+
+
+remember: all code is garbage 🚽
+
 <!--
 **gillytron/gillytron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
