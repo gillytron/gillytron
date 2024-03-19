@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-👷**Current Role**: Data Engineer 👷
+👷**Current Role**: Keeper of the Mainframe, Wielder of the Ancient SBOM 👷
 
 
-🌱 Currently learning Rust and Node.js 
+🌱 Currently learning Chaos Security Engineering for Event Driving Monitoring and Response
 
 working with: 
 - ⚡ Serverless
-- ⚡ FastAPI
+- ⚡ Python
+- 🔵 lil` bit of Go
+- 👾 Some JS with a sprinkle of TS
+- 🦀 (trying to learn) Rust
 - 📘 Azure
+- 😶‍🌫️ Cloudflare
 
-
+👻 I enjoy building small footprint services for fun 👻 
 
 remember: all code is garbage 🚽
 
